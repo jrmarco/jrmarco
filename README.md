@@ -20,4 +20,5 @@ I'm happy to join (coding) adventures or help you with solutions. Drop me a line
 * Play guitar
 * Too-many-things-to-add
 ## Directions
-Personal webiste : https://bigm.it
+Personal webiste : https://bigm.it   
+Blog: https://bigm.it/blog
